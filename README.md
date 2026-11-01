@@ -42,3 +42,32 @@ Compile and run the item-cost program:
 ### Testing
 Test each program with different valid inputs and verify
 that the results match the expected calculations.
+
+
+
+
+## Week 1: Introduction to Programming and Problem-Solving
+
+### Practical Exercise
+Created and executed my first Java programme.
+
+### File
+- `week01/FirstProgram.java`
+
+### How to Run
+Open a terminal in the `week01` directory, then run:
+- `javac FirstProgram.java`
+- `java FirstProgram`
+
+## Week 2: Development Environment and First Java Program
+
+### Practical Exercise
+Wrote, compiled and ran a Java programme that displays course information.
+
+### File
+- `week02/HelloWorld.java`
+
+### How to Run
+Open a terminal in the `week02` directory, then run:
+- `javac HelloWorld.java`
+- `java HelloWorld`
